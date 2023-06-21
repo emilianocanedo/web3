@@ -1,4 +1,4 @@
-# web3
+# Desarrollo web3 en español
 
 Proyecto que busca desarrollar una página web3 utilizando ChatGPT como generador de código. Las carpetas se encuentran numeradas por grado de complejidad. El mismo utiliza ethers.js como libreria para interactuar con la cadena de bloques de Ethereum.
 
